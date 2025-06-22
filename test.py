@@ -11,7 +11,7 @@ from ibm_watsonx_ai import Credentials
 try:
     project_id = os.environ["PROJECT_ID"]
 except KeyError:
-    project_id = "c07c367a-967b-4dba-b687-bf915836ba46"
+    project_id = ""
 
 model_id = "meta-llama/llama-3-2-11b-vision-instruct"
 params = TextChatParameters(max_tokens=2000, temperature=0)
