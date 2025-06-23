@@ -11,7 +11,11 @@ from ibm_watsonx_ai import Credentials
 try:
     project_id = os.environ["PROJECT_ID"]
 except KeyError:
+<<<<<<< HEAD
     project_id = "c07c367a-967b-4dba-b687-bf915836ba46"
+=======
+    project_id = ""
+>>>>>>> f9d061e8f52c082a46050b64910b6423bfc65db3
 
 model_id = "meta-llama/llama-3-2-11b-vision-instruct"
 params = TextChatParameters(max_tokens=2000, temperature=0)
@@ -140,4 +144,8 @@ def main(image_folder, output_folder="json_output"):
             print(f"⚠️ No valid JSON output for {group_name} — skipping file.")
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main("converted_pngs") 
+=======
+    main("converted_pngs") 
+>>>>>>> f9d061e8f52c082a46050b64910b6423bfc65db3
