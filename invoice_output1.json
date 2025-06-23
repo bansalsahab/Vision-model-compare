@@ -1,0 +1,181 @@
+{
+  "MEN'S 100% COTTON WOVEN PANTS": [
+    {
+      "style_no": "105-1233532",
+      "quantity": 151,
+      "unit": "DOZ",
+      "unit_price_usd": 61.0,
+      "total_cost_usd": 9211.0
+    },
+    {
+      "style_no": "118-1233663",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 6.15,
+      "total_cost_usd": 4501.8
+    },
+    {
+      "style_no": "118-1233664",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 6.15,
+      "total_cost_usd": 4501.8
+    },
+    {
+      "style_no": "118-1233665",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 5.23,
+      "total_cost_usd": 3828.36
+    },
+    {
+      "style_no": "118-1233666",
+      "quantity": 744,
+      "unit": "PC",
+      "unit_price_usd": 5.23,
+      "total_cost_usd": 3891.12
+    }
+  ],
+  "MEN'S 96% COTTON 4% SPANDEX WOVEN PANTS/SHORTS": [
+    {
+      "style_no": "118-1233662",
+      "quantity": 744,
+      "unit": "PC",
+      "unit_price_usd": 6.15,
+      "total_cost_usd": 4575.6
+    },
+    {
+      "style_no": "118-1233663",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 6.15,
+      "total_cost_usd": 4501.8
+    },
+    {
+      "style_no": "118-1233664",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 6.15,
+      "total_cost_usd": 4501.8
+    },
+    {
+      "style_no": "118-1233665",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 5.23,
+      "total_cost_usd": 3828.36
+    },
+    {
+      "style_no": "118-1233666",
+      "quantity": 744,
+      "unit": "PC",
+      "unit_price_usd": 5.23,
+      "total_cost_usd": 3891.12
+    }
+  ],
+  "MEN'S 100% COTTON WOVEN SHORTS": [
+    {
+      "style_no": "118-1233483",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 4.5,
+      "total_cost_usd": 3294.0
+    },
+    {
+      "style_no": "118-1233484",
+      "quantity": 744,
+      "unit": "PC",
+      "unit_price_usd": 4.5,
+      "total_cost_usd": 3348.0
+    },
+    {
+      "style_no": "118-1233485",
+      "quantity": 732,
+      "unit": "PC",
+      "unit_price_usd": 4.5,
+      "total_cost_usd": 3294.0
+    },
+    {
+      "style_no": "118-1233486",
+      "quantity": 744,
+      "unit": "PC",
+      "unit_price_usd": 4.5,
+      "total_cost_usd": 3348.0
+    }
+  ],
+  "MEN'S/BOY'S 100% COTTON WOVEN PANTS/SHORTS": [
+    {
+      "style_no": "125-1233629",
+      "quantity": 852,
+      "unit": "PC",
+      "unit_price_usd": 5.38,
+      "total_cost_usd": 4583.76
+    },
+    {
+      "style_no": "125-1233630",
+      "quantity": 840,
+      "unit": "PC",
+      "unit_price_usd": 5.38,
+      "total_cost_usd": 4519.2
+    },
+    {
+      "style_no": "125-1233631",
+      "quantity": 828,
+      "unit": "PC",
+      "unit_price_usd": 5.38,
+      "total_cost_usd": 4454.64
+    },
+    {
+      "style_no": "125-1233632",
+      "quantity": 840,
+      "unit": "PC",
+      "unit_price_usd": 5.38,
+      "total_cost_usd": 4519.2
+    },
+    {
+      "style_no": "125-1233633",
+      "quantity": 840,
+      "unit": "PC",
+      "unit_price_usd": 4.59,
+      "total_cost_usd": 3855.6
+    },
+    {
+      "style_no": "125-1233635",
+      "quantity": 852,
+      "unit": "PC",
+      "unit_price_usd": 4.59,
+      "total_cost_usd": 3910.68
+    },
+    {
+      "style_no": "125-1233636",
+      "quantity": 816,
+      "unit": "PC",
+      "unit_price_usd": 4.59,
+      "total_cost_usd": 3745.44
+    },
+    {
+      "style_no": "325-3222951",
+      "quantity": 456,
+      "unit": "PC",
+      "unit_price_usd": 4.59,
+      "total_cost_usd": 2093.04
+    },
+    {
+      "style_no": "325-3222952",
+      "quantity": 468,
+      "unit": "PC",
+      "unit_price_usd": 4.59,
+      "total_cost_usd": 2148.12
+    },
+    {
+      "style_no": "325-3222953",
+      "quantity": 480,
+      "unit": "PC",
+      "unit_price_usd": 3.91,
+      "total_cost_usd": 1876.8
+    }
+  ],
+  "invoice_total_usd": 78705.16,
+  "discount_usd": 795.0,
+  "final_total_usd": 78705.16
+}

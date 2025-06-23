@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "style_no": "6000141953",
+      "quantity": 50,
+      "unit": "MT",
+      "unit_price_usd": 131,
+      "total_cost_usd": 6550
+    },
+    {
+      "style_no": "6000141953",
+      "quantity": 50,
+      "unit": "25KGS",
+      "unit_price_usd": 131,
+      "total_cost_usd": 6550
+    },
+    {
+      "style_no": "28365000",
+      "quantity": 50,
+      "unit": "25KGS",
+      "unit_price_usd": 131,
+      "total_cost_usd": 6550
+    }
+  ],
+  "invoice": {
+    "invoice_total_usd": 6550,
+    "discount_usd": null,
+    "final_total_usd": 6550
+  },
+  "Coated Calcium Carbonate CVN-IT": [
+    {
+      "style_no": "6000141953",
+      "quantity": 50,
+      "unit": "Q'ty (MT)",
+      "unit_price_usd": 131,
+      "total_cost_usd": 6550
+    }
+  ],
+  "invoice_total_usd": 6550,
+  "discount_usd": null,
+  "final_total_usd": 6550
+}

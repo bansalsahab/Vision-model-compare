@@ -1,0 +1,225 @@
+{
+  "H.S. Code Description": {
+    "Item 1": {
+      "style_no": "7152433000",
+      "quantity": 900,
+      "unit": "MLX",
+      "unit_price_usd": 0.94,
+      "total_cost_usd": 846.0
+    }
+  },
+  "invoice_total_usd": 846.0,
+  "discount_usd": 0.0,
+  "final_total_usd": 846.0,
+  "products": [
+    {
+      "style_no": "123456",
+      "quantity": 1,
+      "unit": "Unit",
+      "unit_price_usd": 846.0,
+      "total_cost_usd": 846.0
+    },
+    {
+      "style_no": "123456",
+      "quantity": 1,
+      "unit": "Unit",
+      "unit_price_usd": 846.0,
+      "total_cost_usd": 846.0
+    },
+    {
+      "style_no": "1737040098",
+      "quantity": 200,
+      "unit": "MLX",
+      "unit_price_usd": 2.627,
+      "total_cost_usd": 525.4
+    },
+    {
+      "style_no": "0029639",
+      "quantity": 1,
+      "unit": "Unit Price",
+      "unit_price_usd": 525.4,
+      "total_cost_usd": 525.4
+    },
+    {
+      "style_no": "938122568",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 525.4,
+      "total_cost_usd": 525.4
+    },
+    {
+      "style_no": "716343000",
+      "quantity": 600,
+      "unit": "MLX",
+      "unit_price_usd": 0.94,
+      "total_cost_usd": 564.0
+    },
+    {
+      "style_no": "1138129967",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 564.0,
+      "total_cost_usd": 564.0
+    },
+    {
+      "style_no": "123456",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 5292.0,
+      "total_cost_usd": 5292.0
+    },
+    {
+      "style_no": "123456",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 5292.0,
+      "total_cost_usd": 5292.0
+    },
+    {
+      "style_no": "123456",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 5292.0,
+      "total_cost_usd": 5292.0
+    },
+    {
+      "style_no": "123456",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 100.0,
+      "total_cost_usd": 100.0
+    },
+    {
+      "style_no": "123456",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 200.0,
+      "total_cost_usd": 200.0
+    },
+    {
+      "style_no": "716243000",
+      "quantity": 600,
+      "unit": "EA",
+      "unit_price_usd": 5.9,
+      "total_cost_usd": 3540.0
+    },
+    {
+      "style_no": "1138129967",
+      "quantity": 1,
+      "unit": "KG",
+      "unit_price_usd": 5.9,
+      "total_cost_usd": 5.9
+    },
+    {
+      "style_no": "709844009",
+      "quantity": 700,
+      "unit": "VLX",
+      "unit_price_usd": 1.08,
+      "total_cost_usd": 756.0
+    },
+    {
+      "style_no": "1233330241",
+      "quantity": 756.0,
+      "unit": "Unit Price",
+      "unit_price_usd": 0.0,
+      "total_cost_usd": 756.0
+    },
+    {
+      "style_no": "0001",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 756.0,
+      "total_cost_usd": 756.0
+    },
+    {
+      "style_no": "0002",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 756.0,
+      "total_cost_usd": 756.0
+    },
+    {
+      "style_no": "0000000001",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 3780.0,
+      "total_cost_usd": 3780.0
+    },
+    {
+      "style_no": "0000000002",
+      "quantity": 1,
+      "unit": "Each",
+      "unit_price_usd": 3780.0,
+      "total_cost_usd": 3780.0
+    },
+    {
+      "style_no": "12345678",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 3780.0,
+      "total_cost_usd": 3780.0
+    },
+    {
+      "style_no": "12345679",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 3780.0,
+      "total_cost_usd": 3780.0
+    }
+  ],
+  "invoice": {
+    "invoice_total_usd": 3780.0,
+    "discount_usd": 0.0,
+    "final_total_usd": 3780.0,
+    "invoice_no": "1138135303",
+    "date": "25.08.2017",
+    "p/o_no": "BI103251",
+    "p/o_date": "29.06.2017",
+    "our_order_no": "9757844",
+    "our_order_date": "17.07.2017",
+    "p_o_no": "BI103341",
+    "p_o_date": "13.07.2017",
+    "currency": "USD"
+  },
+  "invoice_details": {
+    "invoice_no": "1136122231",
+    "p_o_no": "BI103251",
+    "p_o_date": "29.06.2017",
+    "our_order_no": "5723755",
+    "our_order_date": "03.07.2017",
+    "currency": "USD"
+  },
+  "port_of_departure": "Singapore Airport",
+  "port_of_arrival": null,
+  "total_cost": {
+    "total_usd": 846.0
+  },
+  "authorized_signatory": null,
+  "certified_true_and_correct": null,
+  "invoice_totals": {
+    "invoice_total_usd": 564.0,
+    "discount_usd": 0.0,
+    "final_total_usd": 564.0
+  },
+  "invoice_no": "1138130076",
+  "p_o_no": "BI103251",
+  "p_o_date": "29.06.2017",
+  "our_order_no": "9723755",
+  "our_order_date": "03.07.2017",
+  "currency": "USD",
+  "invoice_total": 756.0,
+  "discount": null,
+  "final_total": null,
+  "items": [
+    {
+      "style_no": "708844009",
+      "quantity": 1,
+      "unit": "MLX",
+      "unit_price_usd": 1.08,
+      "total_cost_usd": 1.08
+    }
+  ],
+  "invoice_number": "1138135911",
+  "date": "29.06.2017",
+  "total_amount_due": 3780.0
+}

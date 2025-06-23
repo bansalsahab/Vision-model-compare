@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "style_no": "Case No: 3801",
+      "quantity": 23,
+      "unit": "USD",
+      "unit_price_usd": 619.83,
+      "total_cost_usd": 619.83
+    },
+    {
+      "style_no": "Case No: 3802",
+      "quantity": 23,
+      "unit": "USD",
+      "unit_price_usd": 619.83,
+      "total_cost_usd": 619.83
+    }
+  ],
+  "invoice": {
+    "invoice_total_usd": 619.83,
+    "discount_usd": null,
+    "final_total_usd": 619.83
+  }
+}

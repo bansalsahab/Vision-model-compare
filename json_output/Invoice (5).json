@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "style_no": "GN15-3530-CA3JA6",
+      "quantity": 18,
+      "unit": "SHRD STNG COL",
+      "unit_price_usd": 1.623203,
+      "total_cost_usd": 29.22
+    },
+    {
+      "style_no": "GN15-3530-DA3JA6",
+      "quantity": 54,
+      "unit": "SHRD STNG COL",
+      "unit_price_usd": 1.623203,
+      "total_cost_usd": 87.65
+    },
+    {
+      "style_no": "GN15-A27442-PA3UAW",
+      "quantity": 50,
+      "unit": "INSRT RR DR A/RST",
+      "unit_price_usd": 3.651534,
+      "total_cost_usd": 182.58
+    },
+    {
+      "style_no": "GN15-12A692-BA",
+      "quantity": 120,
+      "unit": "BRKT ASY ENG ELETR CONTR PROCS",
+      "unit_price_usd": 1.230746,
+      "total_cost_usd": 147.69
+    },
+    {
+      "style_no": "GN15-12A692-DA",
+      "quantity": 120,
+      "unit": "BRKT ASY ENG ELETR CONTR PROCS",
+      "unit_price_usd": 1.202712,
+      "total_cost_usd": 144.33
+    },
+    {
+      "style_no": "GN15-12T652-AB",
+      "quantity": 136,
+      "unit": "SHLD ASY-E/C PROCS",
+      "unit_price_usd": 0.473229,
+      "total_cost_usd": 64.36
+    },
+    {
+      "style_no": "GN15-12T652-BB",
+      "quantity": 136,
+      "unit": "SHLD ASY-E/C PROCS",
+      "unit_price_usd": 0.391823,
+      "total_cost_usd": 53.29
+    },
+    {
+      "style_no": "GN15-14A122-AC3JA6",
+      "quantity": 256,
+      "unit": "BZL-RR WDO REG CONTR SW",
+      "unit_price_usd": 17.421602,
+      "total_cost_usd": 4459.93
+    },
+    {
+      "style_no": "GN15-19F648-AB3FS3",
+      "quantity": 13,
+      "unit": "BZL RGSTR ASY A/C I/PNL CTR",
+      "unit_price_usd": 4.089287,
+      "total_cost_usd": 53.16
+    },
+    {
+      "style_no": "GN15-19F648-AB3JA6",
+      "quantity": 50,
+      "unit": "BZL RGSTR ASY A/C I/PNL CTR",
+      "unit_price_usd": 4.089287,
+      "total_cost_usd": 204.46
+    },
+    {
+      "style_no": "GN15-A045A17-LD3UAW",
+      "quantity": 12,
+      "unit": "MLDG CNSL PNL FIN PNL LH",
+      "unit_price_usd": 18.168239,
+      "total_cost_usd": 218.02
+    },
+    {
+      "style_no": "CN15-N517A60-AB",
+      "quantity": 2304,
+      "unit": "RET ASY RF O/S BEL MLDG",
+      "unit_price_usd": 0.085048,
+      "total_cost_usd": 195.95
+    },
+    {
+      "style_no": "CN15-R044C60-AD3ZHE",
+      "quantity": 14,
+      "unit": "CVR I/PNL FIN PNL UPR",
+      "unit_price_usd": 0.721722,
+      "total_cost_usd": 10.1
+    },
+    {
+      "style_no": "GN15-7804302-CA3UAW",
+      "quantity": 50,
+      "unit": "PNL ASY I/PNL FIN CTR",
+      "unit_price_usd": 3.616691,
+      "total_cost_usd": 180.83
+    }
+  ],
+  "grand_total": 3333,
+  "authorized_signatory": "A signature is present, but the name is not legible."
+}
